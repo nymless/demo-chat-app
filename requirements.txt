@@ -1,0 +1,4 @@
+transformers
+streamlit
+accelerate
+torch

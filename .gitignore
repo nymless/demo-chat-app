@@ -1,0 +1,6 @@
+.idea
+.venv
+.conda
+__pycache__
+.env
+.streamlit
